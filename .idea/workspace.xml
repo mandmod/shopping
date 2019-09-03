@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="541cf245-ad6c-4a19-a359-a227e8d7b8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565672744306</updated>
       <workItem from="1565672746640" duration="3935000" />
-      <workItem from="1565683706292" duration="1991000" />
+      <workItem from="1565683706292" duration="5211000" />
     </task>
     <servers />
   </component>
